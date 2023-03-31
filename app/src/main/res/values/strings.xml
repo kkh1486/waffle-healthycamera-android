@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HealthyCamera</string>
+    <string name="title_home">Home</string>
+    <string name="title_plus">Plus</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_profile">Profile</string>
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "18824168662",
+    "project_id": "healthycamera-6f27d",
+    "storage_bucket": "healthycamera-6f27d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18824168662:android:942ffe7bfad0f790e97577",
+        "android_client_info": {
+          "package_name": "com.example.healthycamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18824168662-u2qpe6gmtaq1ud9u60ldq93l1nfbpcuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthycamera",
+            "certificate_hash": "144aaf93f082eec45d5b09433a02d6c4fd46954e"
+          }
+        },
+        {
+          "client_id": "18824168662-83tk680s0o9spilfq098d3tiqafs2an1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDylHdjUywCWlTW4bVFarVIQJajggGngBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18824168662-83tk680s0o9spilfq098d3tiqafs2an1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
