@@ -1,12 +1,14 @@
 # waffle-healthycamera-android
 
-#setting
 Environment
-android studio Electric Eel 2022.1.1
+Window10
+Android studio Electric Eel 2022.1.1
+Kotlin
+Firebase - Authentication, Realtime Database
 
 Feature Description
 
-join membership
+Join membership
 Press the sign-up button
 Enter your e-mail
 Enter your password and click the Sign Up button
