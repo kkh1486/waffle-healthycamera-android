@@ -1,10 +1,15 @@
 # waffle-healthycamera-android
 
+2023 Solution Challenge
+Team - Healthy Camera
+Members - Ace, Als, Pascal
+
 Environment
 Window10
 Android studio Electric Eel 2022.1.1
 Kotlin
 Firebase - Authentication, Realtime Database
+
 
 Feature Description
 
