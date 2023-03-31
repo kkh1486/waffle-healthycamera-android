@@ -1,44 +1,69 @@
 # waffle-healthycamera-android
 
-##2023 Solution Challenge
-###Team - Healthy Camera
-###Members - Ace, Als, Pascal
+### 2023 Solution Challenge
+Team - Healthy Camera
+Members - Ace, Als, Pascal
 
-##Topic - Goal 3 Health and Well-being: Ensure healthy life and promote welfare for all ages.
-##Goal - You may not be able to take care of your health due to an imbalance in nutritional intake because you only eat what you want to eat or do not know the         nutritional information of the food you ate.
-We started this project to solve these problems and maintain a healthy life.
+### Topic
+Goal 3 Health and Well-being: Ensure healthy life and promote welfare for all ages.
+### Goal
+You may not be able to take care of your health due to an imbalance in nutritional intake because you only eat what you want to eat or do not know the         nutritional information of the food you ate. We started this project to solve these problems and maintain a healthy life.
 
-##Environment
+### Environment
 Window10
+
 Android studio Electric Eel 2022.1.1
+
 Kotlin
+
 Firebase - Authentication, Realtime Database
 
 
-##Feature Description
+### Feature Description
 
-###Join membership
+
+#### Join membership
+
 Press the sign-up button
+
 Enter your e-mail
+
 Enter your password and click the Sign Up button
+
 -> Click on the confirmation link by email
 
-###Login
+
+#### Login
+
 Create a registered ID and password and click the login button
+
 -> Logout screen output, then go back to the main screen
 
-###Profile
+
+#### Profile
+
 Press the right of the three nevivas
+
 -> Move profile screen
+
 -> Editable by clicking the edit button
+
 -> Enter the information and click the save button to save it
 
-###Home
+
+#### Home
+
 Click in the middle of the three nevivars
+
 -> Set daily intake using data in profile information
 
-Add food
+
+#### Add food
+
 Left-click of 3 nebivars
+
 -> When clicking the + button, the camera can select a photo and an image
+
 -> Print out food names and nutrients after taking pictures
+
 -> Click the check button in the upper right corner to make it a stolen food and store nutrients
