@@ -4,6 +4,10 @@
 Team - Healthy Camera
 Members - Ace, Als, Pascal
 
+Topic - Goal 3 Health and Well-being: Ensure healthy life and promote welfare for all ages.
+Goal - You may not be able to take care of your health due to an imbalance in nutritional intake because you only eat what you want to eat or do not know the         nutritional information of the food you ate.
+We started this project to solve these problems and maintain a healthy life.
+
 Environment
 Window10
 Android studio Electric Eel 2022.1.1
