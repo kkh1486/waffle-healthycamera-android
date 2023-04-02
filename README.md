@@ -71,6 +71,6 @@ Left-click of 3 nebivars
 
 -> When clicking the + button, the camera can select a photo and an image
 
--> Print out food names and nutrients after taking pictures >>>> Click [KoreanFood_eng](https://github.com/GDSC-Daejin/waffle-healthycamera-android/blob/master/KoreanFood%20_eng.txt)
+-> Print out food names and nutrients after taking pictures (The food names are displayed in Korean. If you want to check if they are recognized correctly in English, click 'Here[KoreanFood_eng](https://github.com/GDSC-Daejin/waffle-healthycamera-android/blob/master/KoreanFood%20_eng.txt)' and search for the food name on Google.) 
 
 -> Click the check button at the top right to save it to the nutrients you took today.
