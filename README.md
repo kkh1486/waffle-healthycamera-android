@@ -2,6 +2,7 @@
 
 ### 2023 Solution Challenge
 Team - Healthy Camera
+
 Members - Ace, Als, Pascal
 
 ### Topic
@@ -18,6 +19,10 @@ Kotlin
 
 Firebase - Authentication, Realtime Database
 
+Emulator - Pixel 3 API 33
+
+Device - Galaxy S22 Ultra
+
 
 ### Feature Description
 
@@ -28,7 +33,7 @@ Press the sign-up button
 
 Enter your e-mail
 
-Enter your password and click the Sign Up button
+Enter your password and click the Join button
 
 -> Click on the confirmation link by email
 
@@ -36,6 +41,8 @@ Enter your password and click the Sign Up button
 #### Login
 
 Create a registered ID and password and click the login button
+
+Or click Google Authentication
 
 -> Logout screen output, then go back to the main screen
 
@@ -55,7 +62,7 @@ Press the right of the three nevivas
 
 Click in the middle of the three nevivars
 
--> Set daily intake using data in profile information
+-> You can find out what percentage of the daily recommended intake of nutrients you have consumed today.
 
 
 #### Add food
@@ -66,4 +73,4 @@ Left-click of 3 nebivars
 
 -> Print out food names and nutrients after taking pictures
 
--> Click the check button in the upper right corner to make it a stolen food and store nutrients
+-> Click the check button at the top right to save it to the nutrients you took today.
