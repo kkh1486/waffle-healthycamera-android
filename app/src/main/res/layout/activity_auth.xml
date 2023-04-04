@@ -22,7 +22,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:backgroundTint="@color/magenta"
-            android:text="로그아웃"
+            android:text="Logout"
             android:textColor="@color/white"
             android:textStyle="bold"
             android:visibility="gone" />
@@ -33,7 +33,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:backgroundTint="@color/magenta"
-            android:text="회원가입"
+            android:text="Sign Up"
             android:textColor="@color/white"
             android:textStyle="bold"
             android:visibility="gone" />
@@ -43,7 +43,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:hint="이메일"
+            android:hint="E-mail"
             android:inputType="textEmailAddress"
             android:visibility="gone" />
 
@@ -52,7 +52,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:hint="비밀번호 - 6자 이상"
+            android:hint="Password - At least 6 characters"
             android:inputType="textPassword"
             android:visibility="gone" />
 
@@ -62,7 +62,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:backgroundTint="@color/magenta"
-            android:text="가입"
+            android:text="Sign Up"
             android:textColor="@color/white"
             android:textStyle="bold"
             android:visibility="gone" />
@@ -73,7 +73,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:backgroundTint="@color/magenta"
-            android:text="로그인"
+            android:text="Sign In"
             android:textColor="@color/white"
             android:textStyle="bold"
             android:visibility="gone" />
@@ -84,7 +84,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:backgroundTint="@color/magenta"
-            android:text="구글인증"
+            android:text="Google Authentication"
             android:textColor="@color/white"
             android:textStyle="bold"
             android:visibility="gone" />

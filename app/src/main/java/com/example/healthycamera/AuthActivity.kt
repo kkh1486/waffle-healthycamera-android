@@ -81,16 +81,16 @@ class AuthActivity : AppCompatActivity() {
                         MyApplication.auth.currentUser?.sendEmailVerification()
                             ?.addOnCompleteListener{ sendTask ->
                                 if (sendTask.isSuccessful) {
-                                    Toast.makeText(baseContext, "회원가입 성공, 전송된 메일을 확인해 주세요",
+                                    Toast.makeText(baseContext, "Sign up successful, please check the mail sent.",
                                         Toast.LENGTH_SHORT).show()
                                     changeVisibility("logout")
                                 } else {
-                                    Toast.makeText(baseContext, "메일 발송 실패", Toast.LENGTH_SHORT).show()
+                                    Toast.makeText(baseContext, "Failed to send mail", Toast.LENGTH_SHORT).show()
                                     changeVisibility("logout")
                                 }
                             }
                     } else {
-                        Toast.makeText(baseContext, "회원가입 실패", Toast.LENGTH_SHORT).show()
+                        Toast.makeText(baseContext, "Sign up failed", Toast.LENGTH_SHORT).show()
                         changeVisibility("logout")
                     }
                 }
@@ -112,10 +112,10 @@ class AuthActivity : AppCompatActivity() {
 
                             changeVisibility("login")
                         } else {
-                            Toast.makeText(baseContext, "전송된 메일로 이메일 인증이 되지 않았습니다.", Toast.LENGTH_SHORT)
+                            Toast.makeText(baseContext, "The email was not authenticated by the mail sent.", Toast.LENGTH_SHORT)
                         }
                     } else {
-                        Toast.makeText(baseContext, "로그인 실패", Toast.LENGTH_SHORT).show()
+                        Toast.makeText(baseContext, "Sign in failed", Toast.LENGTH_SHORT).show()
                     }
                 }
 
@@ -125,7 +125,7 @@ class AuthActivity : AppCompatActivity() {
     private fun changeVisibility(mode: String) {
         if (mode === "login") {
             binding.run {
-                authMainTextView.text = "${MyApplication.email} 님 반갑습니다."
+                authMainTextView.text = "Hello, ${MyApplication.email}"
                 logoutBtn.visibility= View.VISIBLE
                 goSignInBtn.visibility= View.GONE
                 googleLoginBtn.visibility= View.GONE
@@ -137,7 +137,7 @@ class AuthActivity : AppCompatActivity() {
             }
         } else if (mode === "logout") {
             binding.run {
-                authMainTextView.text = "로그인 하거나 회원가입 해주세요."
+                authMainTextView.text = "Please sign in or sign up"
                 logoutBtn.visibility = View.GONE
                 goSignInBtn.visibility = View.VISIBLE
                 googleLoginBtn.visibility = View.VISIBLE
