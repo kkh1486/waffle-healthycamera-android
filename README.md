@@ -25,7 +25,7 @@ Device - Galaxy S22 Ultra
 
 ___
 ### Result Video
-click '[result video](https://www.youtube.com/watch?v=8pOfqaHiNjY)
+[result video](https://www.youtube.com/watch?v=8pOfqaHiNjY)
 ___
 ### Feature Description
 
