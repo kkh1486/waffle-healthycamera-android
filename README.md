@@ -24,6 +24,9 @@ Emulator - Pixel 3 API 33
 Device - Galaxy S22 Ultra
 
 ___
+### Result Video
+click '[result video](https://www.youtube.com/watch?v=8pOfqaHiNjY)
+___
 ### Feature Description
 
 
